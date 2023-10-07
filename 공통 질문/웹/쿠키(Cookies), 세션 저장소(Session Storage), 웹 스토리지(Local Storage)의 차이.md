@@ -1,3 +1,7 @@
+---
+created: 2023-10-07T09:26
+updated: 2023-10-07T18:27
+---
 # 쿠키(Cookies), 세션 저장소(Session Storage), 웹 스토리지(Local Storage)의 차이에 대해 설명하시오.
 
 김모건(AI)

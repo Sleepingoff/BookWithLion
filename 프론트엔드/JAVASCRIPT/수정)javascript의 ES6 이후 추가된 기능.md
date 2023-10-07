@@ -1,3 +1,7 @@
+---
+created: 2023-10-07T09:26
+updated: 2023-10-07T18:27
+---
 # javascript의 ES6 이후 추가된 기능은 무엇이 있습니까?
 
 <aside>

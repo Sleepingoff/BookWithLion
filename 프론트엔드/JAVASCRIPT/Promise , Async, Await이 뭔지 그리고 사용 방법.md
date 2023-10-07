@@ -1,3 +1,7 @@
+---
+created: 2023-10-07T09:26
+updated: 2023-10-07T18:27
+---
 # Promise , Async, Await이 뭔지 그리고 사용 방법을 설명해주세요.
 
 이지은(AI)

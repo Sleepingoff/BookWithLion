@@ -1,3 +1,7 @@
+---
+created: 2023-10-07T09:26
+updated: 2023-10-07T18:27
+---
 # TypeScript와 JavaScript의 차이를 설명하시오
 
 신명진(AI)

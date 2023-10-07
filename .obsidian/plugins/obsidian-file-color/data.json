@@ -1,4 +1,20 @@
 {
-  "palette": [],
+  "palette": [
+    {
+      "id": "GUkfds_-yHsJCaps90nzN",
+      "name": "default",
+      "value": "#ffffff"
+    },
+    {
+      "id": "YWtsbrBJVEosEvULfA4Ie",
+      "name": "important",
+      "value": "#bd0000"
+    },
+    {
+      "id": "FbgqLKyxN5CzMapFQR9RH",
+      "name": "editing",
+      "value": "#0079ad"
+    }
+  ],
   "fileColors": []
 }

@@ -4,24 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "b849630ce4039c25",
+        "id": "9bf2ca6d97869ffc",
         "type": "tabs",
         "children": [
           {
-            "id": "5662e5ba98f82e47",
+            "id": "87e8e383ed2d83d0",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DASHBOARD.md",
+                "file": "WORK SPACE/WORK SPACE.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true
             }
+          },
+          {
+            "id": "26a79f8a06b0012e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,6 +93,7 @@
       {
         "id": "0ccba888ace6ec0d",
         "type": "tabs",
+        "dimension": 53.432282003710576,
         "children": [
           {
             "id": "3456cacf8750d8a6",
@@ -87,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DASHBOARD.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DASHBOARD.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DASHBOARD.md"
+                "file": "README.md"
               }
             }
           },
@@ -146,7 +160,15 @@
               "type": "tasks_timeline_view",
               "state": {}
             }
-          },
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "7daca9c87bc1eae9",
+        "type": "tabs",
+        "dimension": 46.567717996289424,
+        "children": [
           {
             "id": "a16b30ad676265e8",
             "type": "leaf",
@@ -164,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -183,37 +205,37 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "5662e5ba98f82e47",
+  "active": "26a79f8a06b0012e",
   "lastOpenFiles": [
+    "WORK SPACE/WORK SPACE.md",
+    "공통 질문/공통 질문.md",
+    "공통 질문/공통 질문 모음.md",
+    "프론트엔드/프론트엔드 질문.md",
+    "프론트엔드/프론트엔드.md",
+    "백엔드/백엔드.md",
+    "백엔드/보류.md",
+    "백엔드/기타.md",
+    "백엔드/백엔드 질문 모음.md",
+    "프론트엔드/HTML과 CSS/HTML과 CSS.md",
     "WORK SPACE/회의/프론트/피드백) 프론트 0925.md",
+    "WORK SPACE/출처.md",
+    "DASHBOARD.md",
+    "README.md",
+    "공통 질문/프로그램 언어/프로그램 언어.md",
+    "공통 질문/웹/웹.md",
+    "공통 질문/깃헙/깃헙.md",
+    "프론트엔드/JAVASCRIPT/수정)javascript의 ES6 이후 추가된 기능.md",
     "WORK SPACE/회의/백엔드/피드백(백엔드) 1002.md",
     "WORK SPACE/회의/백엔드/피드백 0922.md",
     "WORK SPACE/회의/오늘의 회의/피그마 작업 시작.md",
     "프론트엔드/백업)프론트 질문 모아놓기.md",
-    "프론트엔드/프론트엔드 질문.md",
     "WORK SPACE/회의/프론트/프론트 회의 0826.md",
     "WORK SPACE/회의/오늘의 회의/노션 업데이트 0902.md",
     "WORK SPACE/회의/오늘의 회의/오늘의 회의 0826.md",
     "WORK SPACE/회의/백엔드/백엔드 추가 모집 기간.md",
-    "WORK SPACE/회의/오늘의 회의/노션 업데이트 0904.md",
     "WORK SPACE/회의/프론트",
     "WORK SPACE/회의/백엔드",
     "WORK SPACE/회의/오늘의 회의",
-    "WORK SPACE/회의/백엔드/백엔드 회의 0901.md",
-    "WORK SPACE/회의/백엔드/백엔드 회의 0908.md",
-    "WORK SPACE/회의/백엔드/백엔드 회의 0923.md",
-    "WORK SPACE/회의/백엔드/백엔드 회의 0924.md",
-    "WORK SPACE/회의/오늘의 회의/오늘의 회의 0903.md",
-    "WORK SPACE/회의/오늘의 회의/오늘의 회의 0917.md",
-    "WORK SPACE/회의/오늘의 회의/오늘의 회의 0910.md",
-    "WORK SPACE/회의/백엔드/백엔드 회의 0909.md",
-    "WORK SPACE/회의/백엔드/백엔드 회의 1006.md",
-    "WORK SPACE/회의/백엔드/백엔드 회의 0922.md",
-    "WORK SPACE/회의/백엔드/백엔드 회의 0826.md",
-    "WORK SPACE/회의/백엔드/백엔드 회의 0915.md",
-    "DASHBOARD.md",
-    "WORK SPACE/리소스/다이어그램 요청하기.md",
-    "프론트엔드/JAVASCRIPT/var, let, const의 차이에 대해 설명해 주세요.md",
     "WORK SPACE/컨벤션",
     "WORK SPACE/프론트엔드",
     "WORK SPACE/백엔드",

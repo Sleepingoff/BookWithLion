@@ -1,3 +1,7 @@
+---
+created: 2023-10-07T09:26
+updated: 2023-10-07T18:27
+---
 # 답변) useMemo와 useCallback에 대한 개념과 언제 사용해야 하는지 설명 하시오.
 
 <aside>

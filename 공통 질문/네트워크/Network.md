@@ -1,3 +1,7 @@
+---
+created: 2023-10-07T09:26
+updated: 2023-10-07T19:01
+---
 # Network
 
 **TCP, UDP, HTTP, HTTPS, 쿠키와 세션, URL입력후 화면이 출력되는 과정, REST**

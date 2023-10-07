@@ -1,3 +1,7 @@
+---
+created: 2023-10-07T09:25
+updated: 2023-10-07T19:14
+---
 # Python의 GIL(Global Interpreter Lock) 이 무엇인지 설명해주세요🎃
 
 고동우
