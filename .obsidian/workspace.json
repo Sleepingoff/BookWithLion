@@ -146,13 +146,29 @@
               "type": "tasks_timeline_view",
               "state": {}
             }
+          },
+          {
+            "id": "a16b30ad676265e8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "1f0d04bab381ff38",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 511.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,7 +183,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "d852003114656914",
+  "active": "5662e5ba98f82e47",
   "lastOpenFiles": [
     "WORK SPACE/회의/프론트/피드백) 프론트 0925.md",
     "WORK SPACE/회의/백엔드/피드백(백엔드) 1002.md",
